@@ -1,0 +1,190 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.logo {
+    align-items:left;
+    margin-right:0px;
+}
+.tabs a{
+    align-items:right;
+}
+.p {
+    font-family: sans-serif;
+    background-color: rgb(31, 28, 28);
+}
+.nav {
+    color: white;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav a {
+    color: white;
+    margin: 0 10px;
+    text-decoration: none;
+}
+
+h1 {
+    color: rgb(86, 86, 230);
+    font-size: 48px;
+    text-align: justify;
+    margin-left:16%;
+}
+
+h2 {
+    font-size: 68px;
+    color: white;
+    text-align: justify;
+    margin-left: 16%;
+}
+.container {
+    text-align: center;
+    margin-top: 20px;
+    display: flex;
+}
+.Para {
+    width: 40%;
+    margin-left: 0px;
+}
+
+.para {
+    font-size: 20px;
+    color: white;
+    text-align: justify;
+    margin-left:16%;
+}
+.image {
+    margin-left: auto;
+    margin-top: 16px;
+}
+.image img {
+    height: auto; 
+    max-width: 50%; 
+}
+.block {
+    padding: 0px;
+    margin: 0px;   
+}
+.button {
+    padding: 10px 20px;
+    font-size: 24px;
+    background-color: #094afc;
+    color: white;
+    border-radius: 4px; 
+    cursor: pointer;
+}
+h3 {
+    color:blue;
+    text-align: center;
+    font-size: 54px;
+}
+.company {
+    margin-left: 10%;
+    display: flex;
+    align-items: center; 
+    margin-left: 10%;
+}
+
+.myntra, .meesho, .graffer, .cred {
+    margin-right: 10px; 
+    height: 200px; 
+    width: 200px; 
+}
+.company img {
+    max-width: 100%; 
+    height: auto; 
+}
+.companies {
+    margin-left: 10%;
+    display: flex;
+    align-items: center; 
+    margin-left: 10%;
+}
+.ola, .airtel, .yesbank {
+    margin-right: 10px; 
+    height: 150px; 
+    width: 150px; 
+}
+.companies img {
+    max-width: 100%; 
+    height: auto; 
+}
+.h4 {
+    text-align: justify;
+    font-size: 72px;
+    color:blue;
+    font-style: bold;
+    padding: 4%;
+}
+.properties {
+    margin-left: 6%;
+    display: flex;
+    align-items: center; 
+    margin-left: 6%;
+    justify-content:space-around;
+}
+.properties img {
+    max-width: 100%; 
+    align-items: center;
+    height: auto; 
+}
+.h5 {
+    font-size:54px;
+    color:blue;
+}
+.k {
+    color:blue; 
+    font-size:20px;
+    text-align:center;
+}
+.j {
+    font-size: 20px;
+    text-align:center;
+    color:black;
+}
+.l {
+    padding: 4%;
+    font-size:54px;
+    color: white;
+    text-align: justify;
+    background-color: rgb(31, 28, 28);
+    font-style:bold;
+}
+.l .image2 {
+    text-align: justify;
+    padding: 4%;
+    font-size:20px;
+}
+.l .image2 img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); 
+}
+h6 {
+    color: rgb(107, 130, 235);
+    font-size: 36px;
+}
+.blend {
+    font-size: 12px;
+}
+.l img {
+    text-align: justify;
+    padding: 4%;
+    font-size:20px;
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+.explore {
+    padding: 10px 20px;
+    font-size: 24px;
+    background-color: #edeef1;
+    font-style: bold;
+    color: rgb(0, 0, 0);
+    border-radius: 6px; 
+    cursor: pointer;  
+}
