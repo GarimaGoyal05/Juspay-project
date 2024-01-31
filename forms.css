@@ -188,3 +188,11 @@ h6 {
     border-radius: 6px; 
     cursor: pointer;  
 }
+h7{
+    font-size: 74px;
+    text-align:center;
+    color: rgb(9, 9, 143);
+    font-style: bold;
+    margin-right: 40%;
+    margin-left:40%;
+}
